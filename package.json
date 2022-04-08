@@ -1,0 +1,15 @@
+{
+  "name": "p5jstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.4.0",
+    "serve": "^12.0.0"
+  }
+}
